@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.1b0a8c0a.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.748bcd40.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.748bcd40.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/js/2.0c15ea77.chunk.js": "/React-Portfolio/static/js/2.0c15ea77.chunk.js",
+    "static/js/2.0c15ea77.chunk.js.map": "/React-Portfolio/static/js/2.0c15ea77.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.7ad2f13289036d38e8353c7d9bd4f356.js": "/React-Portfolio/precache-manifest.7ad2f13289036d38e8353c7d9bd4f356.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.1b0a8c0a.chunk.css.map": "/React-Portfolio/static/css/main.1b0a8c0a.chunk.css.map",
+    "static/js/2.0c15ea77.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.0c15ea77.chunk.js.LICENSE.txt",
+    "static/media/algo.svg": "/React-Portfolio/static/media/algo.12786bc7.svg",
+    "static/media/api.svg": "/React-Portfolio/static/media/api.406f6ef2.svg",
+    "static/media/backvideo.mp4": "/React-Portfolio/static/media/backvideo.ed44dc5d.mp4",
+    "static/media/computer.svg": "/React-Portfolio/static/media/computer.16d20bbc.svg",
+    "static/media/dot.svg": "/React-Portfolio/static/media/dot.9e188349.svg",
+    "static/media/facebookc.svg": "/React-Portfolio/static/media/facebookc.700dba70.svg",
+    "static/media/github.svg": "/React-Portfolio/static/media/github.2c472603.svg",
+    "static/media/gmail.svg": "/React-Portfolio/static/media/gmail.b7e804f4.svg",
+    "static/media/instagramc.svg": "/React-Portfolio/static/media/instagramc.fc23b902.svg",
+    "static/media/pin.svg": "/React-Portfolio/static/media/pin.9aa92c21.svg",
+    "static/media/portrait.jpg": "/React-Portfolio/static/media/portrait.6cfd4c1c.jpg",
+    "static/media/repair.svg": "/React-Portfolio/static/media/repair.37257631.svg",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.2942bfab.pdf",
+    "static/media/smdpc.jpg": "/React-Portfolio/static/media/smdpc.a6bf0921.jpg",
+    "static/media/tie.svg": "/React-Portfolio/static/media/tie.d8c6f553.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad08de7.js",
+    "static/js/2.0c15ea77.chunk.js",
+    "static/css/main.1b0a8c0a.chunk.css",
+    "static/js/main.748bcd40.chunk.js"
+  ]
+}
